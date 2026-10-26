@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WaitWise - know the wait before you go</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="WaitWise home">
+      <svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="13" fill="#1f6b43"/><path d="M14 7v7l5 3" stroke="#e8f5ec" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      WaitWise
+    </a>
+    <nav>
+      <a href="#dashboard">Dashboard</a>
+      <a href="#places">Places</a>
+      <a href="#how">How it works</a>
+      <a href="admin.html" class="admin-link">Admin</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-text">
+        <h1>Check the queue before you leave your seat.</h1>
+        <p>People who are at a place right now report how busy it is. You see the live wait and decide if it is worth going.</p>
+        <form class="search" id="searchForm" role="search">
+          <label for="q" class="sr">Search places</label>
+          <input id="q" type="search" placeholder="Search a canteen, clinic, gym..." autocomplete="off">
+        </form>
+      </div>
+      <aside class="legend" aria-label="What the colours mean">
+        <div class="ticket low"><span class="dot"></span><div><strong>Low</strong><small>about 5 min wait</small></div></div>
+        <div class="ticket mod"><span class="dot"></span><div><strong>Moderate</strong><small>about 20 min wait</small></div></div>
+        <div class="ticket high"><span class="dot"></span><div><strong>Heavy</strong><small>45+ min wait</small></div></div>
+      </aside>
+    </section>
+
+    <section id="dashboard" class="section">
+      <h2>Dashboard</h2>
+      <div class="stats" id="stats"></div>
+      <div class="two-col">
+        <div class="panel">
+          <h3>Quietest right now</h3>
+          <ul class="ranked" id="quietList"></ul>
+        </div>
+        <div class="panel">
+          <h3>Most reported places</h3>
+          <ul class="ranked" id="popularList"></ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="places" class="section">
+      <h2>Places</h2>
+      <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+      <div class="grid" id="grid" aria-live="polite"></div>
+    </section>
+
+    <section id="how" class="section how">
+      <h2>How it works</h2>
+      <ol>
+        <li><strong>Find a place.</strong> Search or pick a category.</li>
+        <li><strong>Read the status.</strong> Green, yellow or red, with the estimated wait.</li>
+        <li><strong>Report if you are there.</strong> One tap, no account needed.</li>
+        <li><strong>Reports expire.</strong> Only the last 60 minutes count, and newer reports weigh more.</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="footer">WaitWise - community-driven crowd and waiting time estimation</footer>
+
+  <dialog id="placeModal" aria-labelledby="mTitle">
+    <div id="modalBody"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

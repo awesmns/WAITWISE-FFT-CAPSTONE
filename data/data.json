@@ -1,0 +1,4171 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Canteen",
+      "description": "Canteens, food courts and mess halls"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Salon",
+      "description": "Hair and beauty salons"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Gym",
+      "description": "Gyms and fitness studios"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Government Office",
+      "description": "Municipal and government service offices"
+    },
+    {
+      "category_id": 5,
+      "category_name": "College Office",
+      "description": "Admission, fee and exam offices"
+    },
+    {
+      "category_id": 6,
+      "category_name": "Clinic",
+      "description": "Clinics and health centres"
+    },
+    {
+      "category_id": 7,
+      "category_name": "Local Store",
+      "description": "Popular local stores and bakeries"
+    }
+  ],
+  "places": [
+    {
+      "place_id": 11,
+      "name": "Cafe Coffee Day",
+      "category_id": 1,
+      "location": "Cafe Coffee Day, Lavelle Road, D'Souza Layout, Shanthala Nagar, Ashokanagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+      "opening_hours": "09:00 - 21:00",
+      "osm_id": "node663568572",
+      "lat": 12.9717817,
+      "lon": 77.5942306,
+      "admin_id": 1,
+      "created_at": "2026-10-24T18:10:23.886Z"
+    },
+    {
+      "place_id": 12,
+      "name": "Starbucks",
+      "category_id": 1,
+      "location": "Starbucks, Palace Road, Fair Field Layout, High Grounds, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+      "opening_hours": "09:00 - 21:00",
+      "osm_id": "node12022437805",
+      "lat": 12.9859481,
+      "lon": 77.5879172,
+      "admin_id": 1,
+      "created_at": "2026-10-24T18:10:33.766Z"
+    },
+    {
+      "place_id": 13,
+      "name": "Grand Majestic Mall",
+      "category_id": 7,
+      "location": "Grand Majestic Mall, 12, 3rd Cross Road, Gandhinagar, Nehru Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560009, India",
+      "opening_hours": "09:00 - 21:00",
+      "osm_id": "node6698273388",
+      "lat": 12.9773998,
+      "lon": 77.5762252,
+      "admin_id": 1,
+      "created_at": "2026-10-24T18:14:19.972Z"
+    },
+    {
+      "place_id": 14,
+      "name": "St Marthas Hospital",
+      "category_id": 6,
+      "location": "St Marthas Hospital, Kempegowda Road, Cubbonpet, Sampangirama Nagar, Bengaluru Central City Corporation, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560001, India",
+      "opening_hours": "09:00 - 21:00",
+      "osm_id": "way38542913",
+      "lat": 12.9709216,
+      "lon": 77.5858505,
+      "admin_id": 1,
+      "created_at": "2026-10-24T18:35:12.201Z"
+    }
+  ],
+  "reports": [
+    {
+      "report_id": 481,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "f13a37b6a4ffc8",
+      "reported_at": "2026-10-18T03:35:00.000Z"
+    },
+    {
+      "report_id": 482,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5c151433586d9",
+      "reported_at": "2026-10-18T03:36:00.000Z"
+    },
+    {
+      "report_id": 314,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "654992a3f73a6",
+      "reported_at": "2026-10-18T03:47:00.000Z"
+    },
+    {
+      "report_id": 145,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "0491e786afcec",
+      "reported_at": "2026-10-18T03:54:00.000Z"
+    },
+    {
+      "report_id": 313,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "07b02e3c24bae",
+      "reported_at": "2026-10-18T03:54:00.000Z"
+    },
+    {
+      "report_id": 146,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "439e5182458f68",
+      "reported_at": "2026-10-18T04:12:00.000Z"
+    },
+    {
+      "report_id": 484,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "3b86c76de3603",
+      "reported_at": "2026-10-18T04:31:00.000Z"
+    },
+    {
+      "report_id": 148,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "744a4648c5efa8",
+      "reported_at": "2026-10-18T04:33:00.000Z"
+    },
+    {
+      "report_id": 316,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "674028a540a2b8",
+      "reported_at": "2026-10-18T04:38:00.000Z"
+    },
+    {
+      "report_id": 315,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "f1865cdafdefb8",
+      "reported_at": "2026-10-18T04:40:00.000Z"
+    },
+    {
+      "report_id": 483,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "0337bc2e91f698",
+      "reported_at": "2026-10-18T04:46:00.000Z"
+    },
+    {
+      "report_id": 147,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "6a6af5075cd3e",
+      "reported_at": "2026-10-18T05:08:00.000Z"
+    },
+    {
+      "report_id": 149,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "9a35fd3dbc7e9",
+      "reported_at": "2026-10-18T05:39:00.000Z"
+    },
+    {
+      "report_id": 150,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "59ff869cf267c8",
+      "reported_at": "2026-10-18T05:40:00.000Z"
+    },
+    {
+      "report_id": 486,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "3610fc590c9ae",
+      "reported_at": "2026-10-18T05:42:00.000Z"
+    },
+    {
+      "report_id": 485,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "8bf06321d79b48",
+      "reported_at": "2026-10-18T06:14:00.000Z"
+    },
+    {
+      "report_id": 317,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5fe9de7d695bd",
+      "reported_at": "2026-10-18T06:16:00.000Z"
+    },
+    {
+      "report_id": 318,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "488f3bbffcc3d",
+      "reported_at": "2026-10-18T06:20:00.000Z"
+    },
+    {
+      "report_id": 488,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "800403b6d30c9",
+      "reported_at": "2026-10-18T06:39:00.000Z"
+    },
+    {
+      "report_id": 319,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "1799483c14d4",
+      "reported_at": "2026-10-18T06:47:00.000Z"
+    },
+    {
+      "report_id": 487,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "88a8be7cca9508",
+      "reported_at": "2026-10-18T06:48:00.000Z"
+    },
+    {
+      "report_id": 152,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "b2a9c9ea04b1f8",
+      "reported_at": "2026-10-18T06:52:00.000Z"
+    },
+    {
+      "report_id": 151,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "2375311fe1fc18",
+      "reported_at": "2026-10-18T07:01:00.000Z"
+    },
+    {
+      "report_id": 320,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "0073cfe5f6024",
+      "reported_at": "2026-10-18T07:11:00.000Z"
+    },
+    {
+      "report_id": 490,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "266d6d13666aa8",
+      "reported_at": "2026-10-18T07:46:00.000Z"
+    },
+    {
+      "report_id": 489,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "cb591f1786bf6",
+      "reported_at": "2026-10-18T07:48:00.000Z"
+    },
+    {
+      "report_id": 153,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "6836b21e03db4",
+      "reported_at": "2026-10-18T07:52:00.000Z"
+    },
+    {
+      "report_id": 321,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "99644fc36e9c08",
+      "reported_at": "2026-10-18T07:52:00.000Z"
+    },
+    {
+      "report_id": 154,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "583cdcc0eefc9",
+      "reported_at": "2026-10-18T07:53:00.000Z"
+    },
+    {
+      "report_id": 322,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "78d4af0e51216",
+      "reported_at": "2026-10-18T08:11:00.000Z"
+    },
+    {
+      "report_id": 324,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "653aa9ccb25a6",
+      "reported_at": "2026-10-18T08:30:00.000Z"
+    },
+    {
+      "report_id": 492,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "d3883f1d939758",
+      "reported_at": "2026-10-18T08:40:00.000Z"
+    },
+    {
+      "report_id": 323,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "44ae713be4c1d",
+      "reported_at": "2026-10-18T08:55:00.000Z"
+    },
+    {
+      "report_id": 155,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "96566de130cf5",
+      "reported_at": "2026-10-18T08:59:00.000Z"
+    },
+    {
+      "report_id": 491,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "0cd02c4a367eb8",
+      "reported_at": "2026-10-18T09:00:00.000Z"
+    },
+    {
+      "report_id": 156,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "d7fa53a9afb528",
+      "reported_at": "2026-10-18T09:03:00.000Z"
+    },
+    {
+      "report_id": 326,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "9b5fe5d760dce",
+      "reported_at": "2026-10-18T09:34:00.000Z"
+    },
+    {
+      "report_id": 157,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "9eb209e6e2b1d8",
+      "reported_at": "2026-10-18T09:36:00.000Z"
+    },
+    {
+      "report_id": 494,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "658c810e92eed8",
+      "reported_at": "2026-10-18T09:45:00.000Z"
+    },
+    {
+      "report_id": 493,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "a1d64b71d18f3",
+      "reported_at": "2026-10-18T09:57:00.000Z"
+    },
+    {
+      "report_id": 158,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "7c6f7723ced048",
+      "reported_at": "2026-10-18T10:05:00.000Z"
+    },
+    {
+      "report_id": 325,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "dbd3680c4b5b68",
+      "reported_at": "2026-10-18T10:20:00.000Z"
+    },
+    {
+      "report_id": 160,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "4da0805a07258",
+      "reported_at": "2026-10-18T10:32:00.000Z"
+    },
+    {
+      "report_id": 496,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "35cbac6f62b3",
+      "reported_at": "2026-10-18T10:36:00.000Z"
+    },
+    {
+      "report_id": 495,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "ac1f0356ae1668",
+      "reported_at": "2026-10-18T10:55:00.000Z"
+    },
+    {
+      "report_id": 159,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "adc5e0a0cea7d8",
+      "reported_at": "2026-10-18T11:07:00.000Z"
+    },
+    {
+      "report_id": 327,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "8a0269dc8f50a8",
+      "reported_at": "2026-10-18T11:19:00.000Z"
+    },
+    {
+      "report_id": 328,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "c0bcf0f7b5df18",
+      "reported_at": "2026-10-18T11:19:00.000Z"
+    },
+    {
+      "report_id": 161,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "1bbdbb162986e",
+      "reported_at": "2026-10-18T11:39:00.000Z"
+    },
+    {
+      "report_id": 498,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "3f791997e5581",
+      "reported_at": "2026-10-18T11:54:00.000Z"
+    },
+    {
+      "report_id": 329,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "fc3bca504bd028",
+      "reported_at": "2026-10-18T11:55:00.000Z"
+    },
+    {
+      "report_id": 162,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "4bd7f052513c5",
+      "reported_at": "2026-10-18T12:13:00.000Z"
+    },
+    {
+      "report_id": 330,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "bb0eaf546a6b98",
+      "reported_at": "2026-10-18T12:15:00.000Z"
+    },
+    {
+      "report_id": 497,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "441de5c0f06cf8",
+      "reported_at": "2026-10-18T12:24:00.000Z"
+    },
+    {
+      "report_id": 500,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "e1fcb3a15be3d8",
+      "reported_at": "2026-10-18T12:33:00.000Z"
+    },
+    {
+      "report_id": 164,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "8953be66eecc",
+      "reported_at": "2026-10-18T13:03:00.000Z"
+    },
+    {
+      "report_id": 163,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "82ad872ade6fb8",
+      "reported_at": "2026-10-18T13:07:00.000Z"
+    },
+    {
+      "report_id": 332,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "45130c0d06de48",
+      "reported_at": "2026-10-18T13:10:00.000Z"
+    },
+    {
+      "report_id": 331,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "497f78e6ba01b8",
+      "reported_at": "2026-10-18T13:13:00.000Z"
+    },
+    {
+      "report_id": 499,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "0960ee43f88708",
+      "reported_at": "2026-10-18T13:15:00.000Z"
+    },
+    {
+      "report_id": 334,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "cb8bdcdc207eb8",
+      "reported_at": "2026-10-18T13:30:00.000Z"
+    },
+    {
+      "report_id": 166,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "0b9da63b559898",
+      "reported_at": "2026-10-18T13:31:00.000Z"
+    },
+    {
+      "report_id": 502,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "ec10766930132",
+      "reported_at": "2026-10-18T13:42:00.000Z"
+    },
+    {
+      "report_id": 165,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "c9f88eb91cf34",
+      "reported_at": "2026-10-18T13:54:00.000Z"
+    },
+    {
+      "report_id": 333,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "0bed58d1dd801",
+      "reported_at": "2026-10-18T14:05:00.000Z"
+    },
+    {
+      "report_id": 501,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "6ec0549b7451a",
+      "reported_at": "2026-10-18T14:16:00.000Z"
+    },
+    {
+      "report_id": 167,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "84b99ec89bcaa8",
+      "reported_at": "2026-10-18T14:48:00.000Z"
+    },
+    {
+      "report_id": 335,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "44b9b8f647211",
+      "reported_at": "2026-10-18T15:01:00.000Z"
+    },
+    {
+      "report_id": 503,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "e927ed8472fe68",
+      "reported_at": "2026-10-18T15:07:00.000Z"
+    },
+    {
+      "report_id": 336,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "15a80d85773d9",
+      "reported_at": "2026-10-18T15:15:00.000Z"
+    },
+    {
+      "report_id": 168,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "47d064a2d4b558",
+      "reported_at": "2026-10-18T15:23:00.000Z"
+    },
+    {
+      "report_id": 504,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "2cff17baece3f",
+      "reported_at": "2026-10-18T15:23:00.000Z"
+    },
+    {
+      "report_id": 121,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "cd33bd1ab23578",
+      "reported_at": "2026-10-19T03:33:00.000Z"
+    },
+    {
+      "report_id": 290,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "70132218a9bb5",
+      "reported_at": "2026-10-19T03:39:00.000Z"
+    },
+    {
+      "report_id": 122,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "c5a77a39242ce",
+      "reported_at": "2026-10-19T03:43:00.000Z"
+    },
+    {
+      "report_id": 458,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "7eb53e2abfe58",
+      "reported_at": "2026-10-19T03:54:00.000Z"
+    },
+    {
+      "report_id": 457,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f23b9e2a56d198",
+      "reported_at": "2026-10-19T04:09:00.000Z"
+    },
+    {
+      "report_id": 289,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "2d59f31c07b6f",
+      "reported_at": "2026-10-19T04:21:00.000Z"
+    },
+    {
+      "report_id": 123,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "61623d15447088",
+      "reported_at": "2026-10-19T04:40:00.000Z"
+    },
+    {
+      "report_id": 291,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "0a9a59b5ba76d",
+      "reported_at": "2026-10-19T04:42:00.000Z"
+    },
+    {
+      "report_id": 124,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "493c9c50858ed8",
+      "reported_at": "2026-10-19T04:50:00.000Z"
+    },
+    {
+      "report_id": 292,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "b7f92eadf0349",
+      "reported_at": "2026-10-19T05:13:00.000Z"
+    },
+    {
+      "report_id": 459,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "46c23f48e75ea8",
+      "reported_at": "2026-10-19T05:13:00.000Z"
+    },
+    {
+      "report_id": 460,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "30da7502a7e6a8",
+      "reported_at": "2026-10-19T05:27:00.000Z"
+    },
+    {
+      "report_id": 461,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "c7d3f5261dfde",
+      "reported_at": "2026-10-19T05:30:00.000Z"
+    },
+    {
+      "report_id": 126,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "9574c08ff1e068",
+      "reported_at": "2026-10-19T05:34:00.000Z"
+    },
+    {
+      "report_id": 294,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "5ac932dc5b017",
+      "reported_at": "2026-10-19T05:56:00.000Z"
+    },
+    {
+      "report_id": 125,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5139e76b561088",
+      "reported_at": "2026-10-19T06:14:00.000Z"
+    },
+    {
+      "report_id": 462,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "a8a93ff86e3b38",
+      "reported_at": "2026-10-19T06:16:00.000Z"
+    },
+    {
+      "report_id": 293,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "74dc0a3a7e6ce8",
+      "reported_at": "2026-10-19T06:23:00.000Z"
+    },
+    {
+      "report_id": 464,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "62d47b59ad7f1",
+      "reported_at": "2026-10-19T06:30:00.000Z"
+    },
+    {
+      "report_id": 296,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "feb27b1fd62208",
+      "reported_at": "2026-10-19T06:34:00.000Z"
+    },
+    {
+      "report_id": 127,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "59ecba868f0f38",
+      "reported_at": "2026-10-19T06:47:00.000Z"
+    },
+    {
+      "report_id": 295,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "f1a6bd2e32d2d8",
+      "reported_at": "2026-10-19T06:50:00.000Z"
+    },
+    {
+      "report_id": 128,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "7492e8e2052e88",
+      "reported_at": "2026-10-19T06:59:00.000Z"
+    },
+    {
+      "report_id": 463,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "36da0b734f01b",
+      "reported_at": "2026-10-19T07:13:00.000Z"
+    },
+    {
+      "report_id": 297,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "7c2f859174192",
+      "reported_at": "2026-10-19T07:46:00.000Z"
+    },
+    {
+      "report_id": 129,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "58f0ea788ffe9",
+      "reported_at": "2026-10-19T07:47:00.000Z"
+    },
+    {
+      "report_id": 466,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "6f63e5a3182a38",
+      "reported_at": "2026-10-19T07:47:00.000Z"
+    },
+    {
+      "report_id": 465,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "ccb2e335fc2a1",
+      "reported_at": "2026-10-19T07:54:00.000Z"
+    },
+    {
+      "report_id": 130,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "0fa285cea6607",
+      "reported_at": "2026-10-19T07:56:00.000Z"
+    },
+    {
+      "report_id": 298,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "6439a181c0def",
+      "reported_at": "2026-10-19T08:26:00.000Z"
+    },
+    {
+      "report_id": 299,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "fb3d21599eef68",
+      "reported_at": "2026-10-19T08:30:00.000Z"
+    },
+    {
+      "report_id": 468,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "6d17680821e478",
+      "reported_at": "2026-10-19T08:32:00.000Z"
+    },
+    {
+      "report_id": 300,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "1bb413bb4dd7e",
+      "reported_at": "2026-10-19T08:54:00.000Z"
+    },
+    {
+      "report_id": 131,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "4d786c48754e2",
+      "reported_at": "2026-10-19T08:57:00.000Z"
+    },
+    {
+      "report_id": 467,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "8b7e532ba57e",
+      "reported_at": "2026-10-19T09:11:00.000Z"
+    },
+    {
+      "report_id": 132,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "ccee8aca4818f8",
+      "reported_at": "2026-10-19T09:24:00.000Z"
+    },
+    {
+      "report_id": 302,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "79b65fe84136c",
+      "reported_at": "2026-10-19T09:30:00.000Z"
+    },
+    {
+      "report_id": 470,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "78d48f9b59f808",
+      "reported_at": "2026-10-19T09:31:00.000Z"
+    },
+    {
+      "report_id": 133,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "95c955b5b31478",
+      "reported_at": "2026-10-19T09:57:00.000Z"
+    },
+    {
+      "report_id": 134,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "67eb6ffb38c968",
+      "reported_at": "2026-10-19T10:01:00.000Z"
+    },
+    {
+      "report_id": 469,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "a7c31509058e78",
+      "reported_at": "2026-10-19T10:09:00.000Z"
+    },
+    {
+      "report_id": 301,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "e68f3300bdd4b8",
+      "reported_at": "2026-10-19T10:16:00.000Z"
+    },
+    {
+      "report_id": 304,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "6005ad4b53b628",
+      "reported_at": "2026-10-19T10:36:00.000Z"
+    },
+    {
+      "report_id": 303,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "2103ac17edb58",
+      "reported_at": "2026-10-19T10:47:00.000Z"
+    },
+    {
+      "report_id": 471,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "9448f491baebd",
+      "reported_at": "2026-10-19T10:56:00.000Z"
+    },
+    {
+      "report_id": 472,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5b6540a98c7608",
+      "reported_at": "2026-10-19T11:24:00.000Z"
+    },
+    {
+      "report_id": 135,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "c5f0059812e16",
+      "reported_at": "2026-10-19T11:27:00.000Z"
+    },
+    {
+      "report_id": 136,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "9288a5002067a8",
+      "reported_at": "2026-10-19T11:27:00.000Z"
+    },
+    {
+      "report_id": 306,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "e1b67055f02508",
+      "reported_at": "2026-10-19T11:41:00.000Z"
+    },
+    {
+      "report_id": 474,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "efb60f9f5c17b8",
+      "reported_at": "2026-10-19T11:43:00.000Z"
+    },
+    {
+      "report_id": 473,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "e062848baa631",
+      "reported_at": "2026-10-19T11:47:00.000Z"
+    },
+    {
+      "report_id": 137,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "0d1d88eebd4298",
+      "reported_at": "2026-10-19T11:58:00.000Z"
+    },
+    {
+      "report_id": 138,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "91dec4c22d133",
+      "reported_at": "2026-10-19T12:15:00.000Z"
+    },
+    {
+      "report_id": 305,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "cff57dfaf10fc",
+      "reported_at": "2026-10-19T12:24:00.000Z"
+    },
+    {
+      "report_id": 307,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "28b24890b33588",
+      "reported_at": "2026-10-19T12:32:00.000Z"
+    },
+    {
+      "report_id": 475,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "dbf60a7e8c2838",
+      "reported_at": "2026-10-19T12:38:00.000Z"
+    },
+    {
+      "report_id": 139,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "a8db84d26a1dc8",
+      "reported_at": "2026-10-19T13:13:00.000Z"
+    },
+    {
+      "report_id": 140,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "76999edfe9c34",
+      "reported_at": "2026-10-19T13:16:00.000Z"
+    },
+    {
+      "report_id": 476,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "9a31ffc5bc9fb8",
+      "reported_at": "2026-10-19T13:27:00.000Z"
+    },
+    {
+      "report_id": 308,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "bf40dc174f7d6",
+      "reported_at": "2026-10-19T13:28:00.000Z"
+    },
+    {
+      "report_id": 310,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "a92173bf8fc068",
+      "reported_at": "2026-10-19T13:34:00.000Z"
+    },
+    {
+      "report_id": 142,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "0eacde02618228",
+      "reported_at": "2026-10-19T13:43:00.000Z"
+    },
+    {
+      "report_id": 309,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "3b2cbd3d2426f8",
+      "reported_at": "2026-10-19T13:45:00.000Z"
+    },
+    {
+      "report_id": 477,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "eeb8a35cfe7988",
+      "reported_at": "2026-10-19T14:01:00.000Z"
+    },
+    {
+      "report_id": 478,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "67bbc4264c0b28",
+      "reported_at": "2026-10-19T14:02:00.000Z"
+    },
+    {
+      "report_id": 141,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "1c2ca47ea5fef8",
+      "reported_at": "2026-10-19T14:23:00.000Z"
+    },
+    {
+      "report_id": 143,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "61756b1411afd8",
+      "reported_at": "2026-10-19T14:34:00.000Z"
+    },
+    {
+      "report_id": 480,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "82b6709dde646",
+      "reported_at": "2026-10-19T14:34:00.000Z"
+    },
+    {
+      "report_id": 312,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "38f5e547231048",
+      "reported_at": "2026-10-19T14:39:00.000Z"
+    },
+    {
+      "report_id": 144,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f38043496f136",
+      "reported_at": "2026-10-19T15:00:00.000Z"
+    },
+    {
+      "report_id": 479,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "3f6ca34c4e30d8",
+      "reported_at": "2026-10-19T15:13:00.000Z"
+    },
+    {
+      "report_id": 311,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "c3177cce90454",
+      "reported_at": "2026-10-19T15:23:00.000Z"
+    },
+    {
+      "report_id": 266,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "4331530c2d47a8",
+      "reported_at": "2026-10-20T03:47:00.000Z"
+    },
+    {
+      "report_id": 433,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "783c6f6574934",
+      "reported_at": "2026-10-20T03:48:00.000Z"
+    },
+    {
+      "report_id": 434,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "2825d5c588f2a8",
+      "reported_at": "2026-10-20T03:55:00.000Z"
+    },
+    {
+      "report_id": 98,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "b39e2a2202dff8",
+      "reported_at": "2026-10-20T04:01:00.000Z"
+    },
+    {
+      "report_id": 265,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "4289704de88628",
+      "reported_at": "2026-10-20T04:01:00.000Z"
+    },
+    {
+      "report_id": 97,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "6c2241c92b147",
+      "reported_at": "2026-10-20T04:27:00.000Z"
+    },
+    {
+      "report_id": 99,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "beca4ae6af8f18",
+      "reported_at": "2026-10-20T04:50:00.000Z"
+    },
+    {
+      "report_id": 436,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "d4cce1e84c5e78",
+      "reported_at": "2026-10-20T05:00:00.000Z"
+    },
+    {
+      "report_id": 267,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "820e15de02f4",
+      "reported_at": "2026-10-20T05:02:00.000Z"
+    },
+    {
+      "report_id": 268,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "db5c17a1dd4288",
+      "reported_at": "2026-10-20T05:16:00.000Z"
+    },
+    {
+      "report_id": 100,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "60607d420ad68",
+      "reported_at": "2026-10-20T05:17:00.000Z"
+    },
+    {
+      "report_id": 435,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "fada64e0c2e38",
+      "reported_at": "2026-10-20T05:19:00.000Z"
+    },
+    {
+      "report_id": 438,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "d78e106760d6f8",
+      "reported_at": "2026-10-20T05:32:00.000Z"
+    },
+    {
+      "report_id": 437,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "aa5b54c5dddf",
+      "reported_at": "2026-10-20T05:34:00.000Z"
+    },
+    {
+      "report_id": 101,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "735605af04c19",
+      "reported_at": "2026-10-20T05:53:00.000Z"
+    },
+    {
+      "report_id": 270,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "dea2cbefec0fd",
+      "reported_at": "2026-10-20T05:56:00.000Z"
+    },
+    {
+      "report_id": 102,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "e6c66e8efb7fd",
+      "reported_at": "2026-10-20T05:59:00.000Z"
+    },
+    {
+      "report_id": 269,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "14ba275553d1b",
+      "reported_at": "2026-10-20T06:24:00.000Z"
+    },
+    {
+      "report_id": 271,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "8a507fcfe7e2a8",
+      "reported_at": "2026-10-20T06:33:00.000Z"
+    },
+    {
+      "report_id": 103,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "1ae7ef68100878",
+      "reported_at": "2026-10-20T06:42:00.000Z"
+    },
+    {
+      "report_id": 439,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f4c86f167e6598",
+      "reported_at": "2026-10-20T06:56:00.000Z"
+    },
+    {
+      "report_id": 440,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "9eb913b75def68",
+      "reported_at": "2026-10-20T06:58:00.000Z"
+    },
+    {
+      "report_id": 272,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "d8666c534ceeb",
+      "reported_at": "2026-10-20T07:05:00.000Z"
+    },
+    {
+      "report_id": 104,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "0653a8e77b5708",
+      "reported_at": "2026-10-20T07:26:00.000Z"
+    },
+    {
+      "report_id": 441,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "82ce10eea3269",
+      "reported_at": "2026-10-20T07:36:00.000Z"
+    },
+    {
+      "report_id": 273,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "e6c3c5b73d92e",
+      "reported_at": "2026-10-20T07:54:00.000Z"
+    },
+    {
+      "report_id": 274,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "e2d19a062b35d",
+      "reported_at": "2026-10-20T08:12:00.000Z"
+    },
+    {
+      "report_id": 105,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "e973ecab5b602",
+      "reported_at": "2026-10-20T08:13:00.000Z"
+    },
+    {
+      "report_id": 106,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "be39a78092698",
+      "reported_at": "2026-10-20T08:15:00.000Z"
+    },
+    {
+      "report_id": 442,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "8b1ed20b52ba18",
+      "reported_at": "2026-10-20T08:19:00.000Z"
+    },
+    {
+      "report_id": 443,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "964765ae58c1a",
+      "reported_at": "2026-10-20T08:34:00.000Z"
+    },
+    {
+      "report_id": 444,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "15c5d05dbc9cd",
+      "reported_at": "2026-10-20T08:49:00.000Z"
+    },
+    {
+      "report_id": 107,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "bcfa6a81c97d48",
+      "reported_at": "2026-10-20T09:03:00.000Z"
+    },
+    {
+      "report_id": 108,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "1695c3ed04fb18",
+      "reported_at": "2026-10-20T09:03:00.000Z"
+    },
+    {
+      "report_id": 276,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "b9551b885baca",
+      "reported_at": "2026-10-20T09:20:00.000Z"
+    },
+    {
+      "report_id": 275,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5b8821315aa1b8",
+      "reported_at": "2026-10-20T09:21:00.000Z"
+    },
+    {
+      "report_id": 110,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "9dbd7f749e69f",
+      "reported_at": "2026-10-20T09:35:00.000Z"
+    },
+    {
+      "report_id": 446,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "228e30a294321",
+      "reported_at": "2026-10-20T09:48:00.000Z"
+    },
+    {
+      "report_id": 278,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "09aa6658963de8",
+      "reported_at": "2026-10-20T09:51:00.000Z"
+    },
+    {
+      "report_id": 277,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "c86eee9cfcce6",
+      "reported_at": "2026-10-20T09:58:00.000Z"
+    },
+    {
+      "report_id": 445,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "20449fbf0b7618",
+      "reported_at": "2026-10-20T09:59:00.000Z"
+    },
+    {
+      "report_id": 109,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "af812c83c2a85",
+      "reported_at": "2026-10-20T10:09:00.000Z"
+    },
+    {
+      "report_id": 279,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "f247f50dc8776",
+      "reported_at": "2026-10-20T10:37:00.000Z"
+    },
+    {
+      "report_id": 111,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "bffc5a18c64108",
+      "reported_at": "2026-10-20T10:44:00.000Z"
+    },
+    {
+      "report_id": 448,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "292405e662d2c",
+      "reported_at": "2026-10-20T10:53:00.000Z"
+    },
+    {
+      "report_id": 280,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "05276c621d6ce8",
+      "reported_at": "2026-10-20T11:06:00.000Z"
+    },
+    {
+      "report_id": 112,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "15f12e396003b",
+      "reported_at": "2026-10-20T11:13:00.000Z"
+    },
+    {
+      "report_id": 447,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "dce30aeaa8ef4",
+      "reported_at": "2026-10-20T11:24:00.000Z"
+    },
+    {
+      "report_id": 281,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "c508e7661a0c48",
+      "reported_at": "2026-10-20T11:35:00.000Z"
+    },
+    {
+      "report_id": 450,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "ee83d5325d54c",
+      "reported_at": "2026-10-20T11:35:00.000Z"
+    },
+    {
+      "report_id": 282,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "9a1011514a0b8",
+      "reported_at": "2026-10-20T12:12:00.000Z"
+    },
+    {
+      "report_id": 449,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "aafa87b66223e8",
+      "reported_at": "2026-10-20T12:12:00.000Z"
+    },
+    {
+      "report_id": 114,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "23b3d39f065f",
+      "reported_at": "2026-10-20T12:20:00.000Z"
+    },
+    {
+      "report_id": 113,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "e680044f7e8ab",
+      "reported_at": "2026-10-20T12:28:00.000Z"
+    },
+    {
+      "report_id": 116,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "10585518d8f8a",
+      "reported_at": "2026-10-20T12:35:00.000Z"
+    },
+    {
+      "report_id": 283,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "82a39d22bac838",
+      "reported_at": "2026-10-20T12:37:00.000Z"
+    },
+    {
+      "report_id": 284,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "bf8f04374695e8",
+      "reported_at": "2026-10-20T12:37:00.000Z"
+    },
+    {
+      "report_id": 452,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "e6fe067b650a4",
+      "reported_at": "2026-10-20T12:58:00.000Z"
+    },
+    {
+      "report_id": 115,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "6f37cf7b82c7e8",
+      "reported_at": "2026-10-20T13:03:00.000Z"
+    },
+    {
+      "report_id": 451,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "d44fafcdc2d6f",
+      "reported_at": "2026-10-20T13:24:00.000Z"
+    },
+    {
+      "report_id": 117,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "3fbcdbe9cc9138",
+      "reported_at": "2026-10-20T13:41:00.000Z"
+    },
+    {
+      "report_id": 118,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "623f6bc6431138",
+      "reported_at": "2026-10-20T13:47:00.000Z"
+    },
+    {
+      "report_id": 453,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "1645173e8aab2",
+      "reported_at": "2026-10-20T14:04:00.000Z"
+    },
+    {
+      "report_id": 454,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "5f16fe365ae34",
+      "reported_at": "2026-10-20T14:05:00.000Z"
+    },
+    {
+      "report_id": 285,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "030c9e6447d438",
+      "reported_at": "2026-10-20T14:19:00.000Z"
+    },
+    {
+      "report_id": 286,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "7dde283bfd0f1",
+      "reported_at": "2026-10-20T14:21:00.000Z"
+    },
+    {
+      "report_id": 119,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "7bcb8f1e7c58d",
+      "reported_at": "2026-10-20T14:38:00.000Z"
+    },
+    {
+      "report_id": 456,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "5cd4ad60613da",
+      "reported_at": "2026-10-20T15:01:00.000Z"
+    },
+    {
+      "report_id": 287,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "cb26c84281bfd8",
+      "reported_at": "2026-10-20T15:06:00.000Z"
+    },
+    {
+      "report_id": 120,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "2857ddafcb8988",
+      "reported_at": "2026-10-20T15:11:00.000Z"
+    },
+    {
+      "report_id": 455,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "094a9a26d234e8",
+      "reported_at": "2026-10-20T15:15:00.000Z"
+    },
+    {
+      "report_id": 288,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "1c18c6dd632d78",
+      "reported_at": "2026-10-20T15:26:00.000Z"
+    },
+    {
+      "report_id": 74,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "a96c1eaeb5593",
+      "reported_at": "2026-10-21T03:35:00.000Z"
+    },
+    {
+      "report_id": 73,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "655543ccfa8fa",
+      "reported_at": "2026-10-21T03:48:00.000Z"
+    },
+    {
+      "report_id": 242,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "a20fc3c8a959e8",
+      "reported_at": "2026-10-21T03:56:00.000Z"
+    },
+    {
+      "report_id": 409,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "1441505f2a68c",
+      "reported_at": "2026-10-21T04:01:00.000Z"
+    },
+    {
+      "report_id": 241,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "085fc0b14da3f",
+      "reported_at": "2026-10-21T04:25:00.000Z"
+    },
+    {
+      "report_id": 410,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "a70bee3ae101b",
+      "reported_at": "2026-10-21T04:27:00.000Z"
+    },
+    {
+      "report_id": 243,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "3cd635f225efd8",
+      "reported_at": "2026-10-21T04:36:00.000Z"
+    },
+    {
+      "report_id": 76,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "f947256886bc98",
+      "reported_at": "2026-10-21T04:38:00.000Z"
+    },
+    {
+      "report_id": 411,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "4a41f5bcb1f27",
+      "reported_at": "2026-10-21T04:48:00.000Z"
+    },
+    {
+      "report_id": 244,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5f30a5cdcf6c28",
+      "reported_at": "2026-10-21T04:53:00.000Z"
+    },
+    {
+      "report_id": 75,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1b5de78da65fe8",
+      "reported_at": "2026-10-21T05:20:00.000Z"
+    },
+    {
+      "report_id": 412,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "db9acbe405a43",
+      "reported_at": "2026-10-21T05:24:00.000Z"
+    },
+    {
+      "report_id": 77,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "290df1770d77b8",
+      "reported_at": "2026-10-21T05:35:00.000Z"
+    },
+    {
+      "report_id": 246,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "b4c74684fb39c",
+      "reported_at": "2026-10-21T05:43:00.000Z"
+    },
+    {
+      "report_id": 245,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "371acdc0590328",
+      "reported_at": "2026-10-21T05:50:00.000Z"
+    },
+    {
+      "report_id": 414,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "1cd9a95b3d4a68",
+      "reported_at": "2026-10-21T06:12:00.000Z"
+    },
+    {
+      "report_id": 78,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f2c6079358d25",
+      "reported_at": "2026-10-21T06:14:00.000Z"
+    },
+    {
+      "report_id": 413,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "efda374bd1a85",
+      "reported_at": "2026-10-21T06:26:00.000Z"
+    },
+    {
+      "report_id": 247,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "d4d44aaf46d8b",
+      "reported_at": "2026-10-21T06:34:00.000Z"
+    },
+    {
+      "report_id": 416,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "98bb4a5be2c19",
+      "reported_at": "2026-10-21T06:40:00.000Z"
+    },
+    {
+      "report_id": 415,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "0698cf071fd678",
+      "reported_at": "2026-10-21T07:00:00.000Z"
+    },
+    {
+      "report_id": 79,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "7ff42f8bd1445",
+      "reported_at": "2026-10-21T07:08:00.000Z"
+    },
+    {
+      "report_id": 80,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "3378c87b1304c8",
+      "reported_at": "2026-10-21T07:21:00.000Z"
+    },
+    {
+      "report_id": 248,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "cd6142114f2cf8",
+      "reported_at": "2026-10-21T07:27:00.000Z"
+    },
+    {
+      "report_id": 82,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "ffa4b73485f2d8",
+      "reported_at": "2026-10-21T07:38:00.000Z"
+    },
+    {
+      "report_id": 250,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "15e9665736b42",
+      "reported_at": "2026-10-21T07:43:00.000Z"
+    },
+    {
+      "report_id": 249,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "1e6f16ee81276",
+      "reported_at": "2026-10-21T08:02:00.000Z"
+    },
+    {
+      "report_id": 417,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "c80e8e55db2338",
+      "reported_at": "2026-10-21T08:16:00.000Z"
+    },
+    {
+      "report_id": 418,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "ce7ad226fe0bb",
+      "reported_at": "2026-10-21T08:17:00.000Z"
+    },
+    {
+      "report_id": 81,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "8549424312d89",
+      "reported_at": "2026-10-21T08:22:00.000Z"
+    },
+    {
+      "report_id": 251,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "cfbe0f711c5e08",
+      "reported_at": "2026-10-21T08:42:00.000Z"
+    },
+    {
+      "report_id": 419,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "7f6f55b5ae286",
+      "reported_at": "2026-10-21T08:43:00.000Z"
+    },
+    {
+      "report_id": 84,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "30cd32a0d9c18",
+      "reported_at": "2026-10-21T08:58:00.000Z"
+    },
+    {
+      "report_id": 420,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "7c6897a52ffca",
+      "reported_at": "2026-10-21T09:07:00.000Z"
+    },
+    {
+      "report_id": 83,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "9eb8baa9381a28",
+      "reported_at": "2026-10-21T09:12:00.000Z"
+    },
+    {
+      "report_id": 252,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "0f2ab82caa28a",
+      "reported_at": "2026-10-21T09:28:00.000Z"
+    },
+    {
+      "report_id": 85,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "e447f78d15ec58",
+      "reported_at": "2026-10-21T09:32:00.000Z"
+    },
+    {
+      "report_id": 421,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "cfd4e6c720f34",
+      "reported_at": "2026-10-21T09:33:00.000Z"
+    },
+    {
+      "report_id": 422,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "db8ff98c8ddb8",
+      "reported_at": "2026-10-21T09:47:00.000Z"
+    },
+    {
+      "report_id": 253,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1267f3fc25c05",
+      "reported_at": "2026-10-21T09:58:00.000Z"
+    },
+    {
+      "report_id": 86,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "a4eeb23dd33348",
+      "reported_at": "2026-10-21T10:05:00.000Z"
+    },
+    {
+      "report_id": 254,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "912dd23b50391",
+      "reported_at": "2026-10-21T10:12:00.000Z"
+    },
+    {
+      "report_id": 87,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "4b101789ada85",
+      "reported_at": "2026-10-21T10:31:00.000Z"
+    },
+    {
+      "report_id": 256,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "8563bc8d8375f",
+      "reported_at": "2026-10-21T10:46:00.000Z"
+    },
+    {
+      "report_id": 88,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "73a99016ccc22",
+      "reported_at": "2026-10-21T11:14:00.000Z"
+    },
+    {
+      "report_id": 255,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "86ec51a8650268",
+      "reported_at": "2026-10-21T11:15:00.000Z"
+    },
+    {
+      "report_id": 423,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "d2d3eb74141838",
+      "reported_at": "2026-10-21T11:16:00.000Z"
+    },
+    {
+      "report_id": 424,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "1c9054edcc2bb",
+      "reported_at": "2026-10-21T11:19:00.000Z"
+    },
+    {
+      "report_id": 425,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "272c9ceef1db68",
+      "reported_at": "2026-10-21T11:45:00.000Z"
+    },
+    {
+      "report_id": 258,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "33b0c4d1c350f",
+      "reported_at": "2026-10-21T11:46:00.000Z"
+    },
+    {
+      "report_id": 90,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "e824cbb8ee42e8",
+      "reported_at": "2026-10-21T11:50:00.000Z"
+    },
+    {
+      "report_id": 89,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "76a9c25f724368",
+      "reported_at": "2026-10-21T11:59:00.000Z"
+    },
+    {
+      "report_id": 426,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "a9a0ed32abb54",
+      "reported_at": "2026-10-21T12:19:00.000Z"
+    },
+    {
+      "report_id": 257,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "2b96d25c8cdcf8",
+      "reported_at": "2026-10-21T12:23:00.000Z"
+    },
+    {
+      "report_id": 428,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "3ec6d41f8d6d28",
+      "reported_at": "2026-10-21T12:34:00.000Z"
+    },
+    {
+      "report_id": 427,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "bc31d608722aa",
+      "reported_at": "2026-10-21T12:55:00.000Z"
+    },
+    {
+      "report_id": 91,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "c9a623e4c3548",
+      "reported_at": "2026-10-21T12:56:00.000Z"
+    },
+    {
+      "report_id": 259,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "262d2f50a8eb",
+      "reported_at": "2026-10-21T13:02:00.000Z"
+    },
+    {
+      "report_id": 92,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "16e27d490d84d8",
+      "reported_at": "2026-10-21T13:14:00.000Z"
+    },
+    {
+      "report_id": 260,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f0144f3470d75",
+      "reported_at": "2026-10-21T13:22:00.000Z"
+    },
+    {
+      "report_id": 430,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "de1210900a78f8",
+      "reported_at": "2026-10-21T13:32:00.000Z"
+    },
+    {
+      "report_id": 429,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "f98b2d942133b8",
+      "reported_at": "2026-10-21T13:36:00.000Z"
+    },
+    {
+      "report_id": 94,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "a66dfe2224c8",
+      "reported_at": "2026-10-21T13:43:00.000Z"
+    },
+    {
+      "report_id": 262,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "55c8fef998a66",
+      "reported_at": "2026-10-21T13:47:00.000Z"
+    },
+    {
+      "report_id": 93,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1b97c2518028",
+      "reported_at": "2026-10-21T13:53:00.000Z"
+    },
+    {
+      "report_id": 261,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "619c9632544b1",
+      "reported_at": "2026-10-21T14:14:00.000Z"
+    },
+    {
+      "report_id": 95,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "d9132aa7a37368",
+      "reported_at": "2026-10-21T14:38:00.000Z"
+    },
+    {
+      "report_id": 96,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "951b18c56724d8",
+      "reported_at": "2026-10-21T14:51:00.000Z"
+    },
+    {
+      "report_id": 263,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "7d25fac7830b98",
+      "reported_at": "2026-10-21T14:51:00.000Z"
+    },
+    {
+      "report_id": 264,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "fff489ea0ddb9",
+      "reported_at": "2026-10-21T15:02:00.000Z"
+    },
+    {
+      "report_id": 431,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "e6496f3c74fe68",
+      "reported_at": "2026-10-21T15:13:00.000Z"
+    },
+    {
+      "report_id": 432,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "af4d38b864bb58",
+      "reported_at": "2026-10-21T15:14:00.000Z"
+    },
+    {
+      "report_id": 386,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "3d00f1398cbdf",
+      "reported_at": "2026-10-22T03:50:00.000Z"
+    },
+    {
+      "report_id": 49,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "3e76e6484edd6",
+      "reported_at": "2026-10-22T03:54:00.000Z"
+    },
+    {
+      "report_id": 50,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "e49a687f7b1cc",
+      "reported_at": "2026-10-22T03:54:00.000Z"
+    },
+    {
+      "report_id": 385,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "6e368a0ba398c8",
+      "reported_at": "2026-10-22T04:12:00.000Z"
+    },
+    {
+      "report_id": 218,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "f47c482b8541f8",
+      "reported_at": "2026-10-22T04:20:00.000Z"
+    },
+    {
+      "report_id": 217,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "69a7aa1777e158",
+      "reported_at": "2026-10-22T04:28:00.000Z"
+    },
+    {
+      "report_id": 220,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "adcb5482ef97f8",
+      "reported_at": "2026-10-22T04:42:00.000Z"
+    },
+    {
+      "report_id": 387,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "322933b96c42b",
+      "reported_at": "2026-10-22T04:42:00.000Z"
+    },
+    {
+      "report_id": 388,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "368a833e6a2858",
+      "reported_at": "2026-10-22T04:46:00.000Z"
+    },
+    {
+      "report_id": 51,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "f2a3fd91bb1848",
+      "reported_at": "2026-10-22T04:58:00.000Z"
+    },
+    {
+      "report_id": 52,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "8a486053d19a78",
+      "reported_at": "2026-10-22T05:03:00.000Z"
+    },
+    {
+      "report_id": 219,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "d975eaf62d3768",
+      "reported_at": "2026-10-22T05:10:00.000Z"
+    },
+    {
+      "report_id": 389,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "8dfee696773cf",
+      "reported_at": "2026-10-22T05:49:00.000Z"
+    },
+    {
+      "report_id": 222,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "ab1c97a11454d",
+      "reported_at": "2026-10-22T05:50:00.000Z"
+    },
+    {
+      "report_id": 390,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "f4016dc67cc918",
+      "reported_at": "2026-10-22T05:50:00.000Z"
+    },
+    {
+      "report_id": 221,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "42caa5a00035",
+      "reported_at": "2026-10-22T06:05:00.000Z"
+    },
+    {
+      "report_id": 53,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "40a68a352e2ac",
+      "reported_at": "2026-10-22T06:16:00.000Z"
+    },
+    {
+      "report_id": 54,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "21a4c84f40a6b8",
+      "reported_at": "2026-10-22T06:25:00.000Z"
+    },
+    {
+      "report_id": 56,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "9b2700cf7f5f28",
+      "reported_at": "2026-10-22T06:31:00.000Z"
+    },
+    {
+      "report_id": 224,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "8a9d4d52a58de8",
+      "reported_at": "2026-10-22T06:33:00.000Z"
+    },
+    {
+      "report_id": 391,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1e57ba6754d04",
+      "reported_at": "2026-10-22T06:37:00.000Z"
+    },
+    {
+      "report_id": 223,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "ab70458543768",
+      "reported_at": "2026-10-22T06:57:00.000Z"
+    },
+    {
+      "report_id": 392,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "4f165d3ca0565",
+      "reported_at": "2026-10-22T07:14:00.000Z"
+    },
+    {
+      "report_id": 55,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "64f3444adf9fe8",
+      "reported_at": "2026-10-22T07:19:00.000Z"
+    },
+    {
+      "report_id": 394,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "48740757303318",
+      "reported_at": "2026-10-22T07:31:00.000Z"
+    },
+    {
+      "report_id": 58,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "0b8226760ba0c8",
+      "reported_at": "2026-10-22T07:32:00.000Z"
+    },
+    {
+      "report_id": 393,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f6b41e8858a1c",
+      "reported_at": "2026-10-22T07:40:00.000Z"
+    },
+    {
+      "report_id": 225,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "14da7e4de14b28",
+      "reported_at": "2026-10-22T07:43:00.000Z"
+    },
+    {
+      "report_id": 226,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "c92e42daa3c6b",
+      "reported_at": "2026-10-22T07:48:00.000Z"
+    },
+    {
+      "report_id": 57,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "528609621a688",
+      "reported_at": "2026-10-22T07:50:00.000Z"
+    },
+    {
+      "report_id": 59,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "caef63b1b9efe8",
+      "reported_at": "2026-10-22T08:32:00.000Z"
+    },
+    {
+      "report_id": 227,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "59fe5653ecf688",
+      "reported_at": "2026-10-22T08:44:00.000Z"
+    },
+    {
+      "report_id": 395,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "95c8039bd2996",
+      "reported_at": "2026-10-22T08:48:00.000Z"
+    },
+    {
+      "report_id": 60,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "395bc2748cb058",
+      "reported_at": "2026-10-22T09:00:00.000Z"
+    },
+    {
+      "report_id": 396,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "8db32fc2f9b2e",
+      "reported_at": "2026-10-22T09:03:00.000Z"
+    },
+    {
+      "report_id": 228,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "2cffd13317ec1",
+      "reported_at": "2026-10-22T09:18:00.000Z"
+    },
+    {
+      "report_id": 229,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "c82c48a74f1d68",
+      "reported_at": "2026-10-22T09:51:00.000Z"
+    },
+    {
+      "report_id": 398,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "861b31f9eb1e8",
+      "reported_at": "2026-10-22T09:56:00.000Z"
+    },
+    {
+      "report_id": 62,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "48f73dc15949e8",
+      "reported_at": "2026-10-22T10:12:00.000Z"
+    },
+    {
+      "report_id": 61,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "849477e25a817",
+      "reported_at": "2026-10-22T10:14:00.000Z"
+    },
+    {
+      "report_id": 230,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "4a1ec48a604958",
+      "reported_at": "2026-10-22T10:25:00.000Z"
+    },
+    {
+      "report_id": 397,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "374fdb5b6f94b8",
+      "reported_at": "2026-10-22T10:27:00.000Z"
+    },
+    {
+      "report_id": 231,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "4ff19079a13668",
+      "reported_at": "2026-10-22T10:35:00.000Z"
+    },
+    {
+      "report_id": 63,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "4669b3c8e2961",
+      "reported_at": "2026-10-22T10:36:00.000Z"
+    },
+    {
+      "report_id": 232,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "0faa88154c28d8",
+      "reported_at": "2026-10-22T10:40:00.000Z"
+    },
+    {
+      "report_id": 400,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "143d92c6cefbb",
+      "reported_at": "2026-10-22T10:51:00.000Z"
+    },
+    {
+      "report_id": 64,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "afc65bcd2cace",
+      "reported_at": "2026-10-22T10:55:00.000Z"
+    },
+    {
+      "report_id": 399,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "19637481ede268",
+      "reported_at": "2026-10-22T11:22:00.000Z"
+    },
+    {
+      "report_id": 233,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "1cce9e20a144f",
+      "reported_at": "2026-10-22T11:31:00.000Z"
+    },
+    {
+      "report_id": 402,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "24055a42175338",
+      "reported_at": "2026-10-22T11:39:00.000Z"
+    },
+    {
+      "report_id": 234,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "17cf77d1568b5",
+      "reported_at": "2026-10-22T12:02:00.000Z"
+    },
+    {
+      "report_id": 66,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "3df42a3b50a21",
+      "reported_at": "2026-10-22T12:04:00.000Z"
+    },
+    {
+      "report_id": 65,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "6a4f95e54f3de8",
+      "reported_at": "2026-10-22T12:06:00.000Z"
+    },
+    {
+      "report_id": 401,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "2f9cecad6c604",
+      "reported_at": "2026-10-22T12:22:00.000Z"
+    },
+    {
+      "report_id": 236,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "4ddb29c46c8a",
+      "reported_at": "2026-10-22T12:32:00.000Z"
+    },
+    {
+      "report_id": 235,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "ff8602c956f1d8",
+      "reported_at": "2026-10-22T12:33:00.000Z"
+    },
+    {
+      "report_id": 403,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "795be8dc0434f",
+      "reported_at": "2026-10-22T13:05:00.000Z"
+    },
+    {
+      "report_id": 404,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "cc3cba0fc2fed8",
+      "reported_at": "2026-10-22T13:06:00.000Z"
+    },
+    {
+      "report_id": 67,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "2d144a63bcd0c",
+      "reported_at": "2026-10-22T13:07:00.000Z"
+    },
+    {
+      "report_id": 68,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "7d742af89f9338",
+      "reported_at": "2026-10-22T13:28:00.000Z"
+    },
+    {
+      "report_id": 237,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "6c615f87d67768",
+      "reported_at": "2026-10-22T13:38:00.000Z"
+    },
+    {
+      "report_id": 69,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "68b8116bacf5a",
+      "reported_at": "2026-10-22T13:42:00.000Z"
+    },
+    {
+      "report_id": 406,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "2ad7e067273098",
+      "reported_at": "2026-10-22T13:49:00.000Z"
+    },
+    {
+      "report_id": 238,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5d01498d7523a8",
+      "reported_at": "2026-10-22T13:51:00.000Z"
+    },
+    {
+      "report_id": 405,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "f1152610bd79e8",
+      "reported_at": "2026-10-22T13:55:00.000Z"
+    },
+    {
+      "report_id": 70,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "d9c7e978dda8d8",
+      "reported_at": "2026-10-22T14:09:00.000Z"
+    },
+    {
+      "report_id": 407,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "187bafe635b7e",
+      "reported_at": "2026-10-22T14:33:00.000Z"
+    },
+    {
+      "report_id": 240,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "9b670da5151d68",
+      "reported_at": "2026-10-22T14:37:00.000Z"
+    },
+    {
+      "report_id": 239,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "3c79189c2e71a",
+      "reported_at": "2026-10-22T14:48:00.000Z"
+    },
+    {
+      "report_id": 72,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "2fcea2ce7fc58",
+      "reported_at": "2026-10-22T15:15:00.000Z"
+    },
+    {
+      "report_id": 71,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "0e90a760ba285",
+      "reported_at": "2026-10-22T15:17:00.000Z"
+    },
+    {
+      "report_id": 408,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "90d2cecbf8a7e",
+      "reported_at": "2026-10-22T15:24:00.000Z"
+    },
+    {
+      "report_id": 26,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "4dab5e5ddf62b8",
+      "reported_at": "2026-10-23T03:35:00.000Z"
+    },
+    {
+      "report_id": 362,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "830462832c676",
+      "reported_at": "2026-10-23T03:42:00.000Z"
+    },
+    {
+      "report_id": 193,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "57b89ebdf5acf8",
+      "reported_at": "2026-10-23T03:51:00.000Z"
+    },
+    {
+      "report_id": 194,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "2d6b8f556210b",
+      "reported_at": "2026-10-23T03:59:00.000Z"
+    },
+    {
+      "report_id": 25,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "81d278e41556f",
+      "reported_at": "2026-10-23T04:06:00.000Z"
+    },
+    {
+      "report_id": 361,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "d5d378499b0c58",
+      "reported_at": "2026-10-23T04:12:00.000Z"
+    },
+    {
+      "report_id": 196,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "a144a42ef89ea8",
+      "reported_at": "2026-10-23T04:37:00.000Z"
+    },
+    {
+      "report_id": 363,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "47a81de1327e",
+      "reported_at": "2026-10-23T04:39:00.000Z"
+    },
+    {
+      "report_id": 27,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "bb54a1dea40d7",
+      "reported_at": "2026-10-23T04:47:00.000Z"
+    },
+    {
+      "report_id": 28,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "78eb8f3d1b0e4",
+      "reported_at": "2026-10-23T04:49:00.000Z"
+    },
+    {
+      "report_id": 364,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1bba79ed6ac428",
+      "reported_at": "2026-10-23T05:26:00.000Z"
+    },
+    {
+      "report_id": 195,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "1978e4de90afe",
+      "reported_at": "2026-10-23T05:27:00.000Z"
+    },
+    {
+      "report_id": 366,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "48c2c5cf702648",
+      "reported_at": "2026-10-23T05:38:00.000Z"
+    },
+    {
+      "report_id": 197,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "4bb1c797ce0ef",
+      "reported_at": "2026-10-23T05:56:00.000Z"
+    },
+    {
+      "report_id": 365,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "c6bdb67a8dfe88",
+      "reported_at": "2026-10-23T06:06:00.000Z"
+    },
+    {
+      "report_id": 198,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "5fc5380ecffb18",
+      "reported_at": "2026-10-23T06:07:00.000Z"
+    },
+    {
+      "report_id": 30,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "7f45519f4af7f8",
+      "reported_at": "2026-10-23T06:18:00.000Z"
+    },
+    {
+      "report_id": 29,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "35cdcbb24f74c8",
+      "reported_at": "2026-10-23T06:20:00.000Z"
+    },
+    {
+      "report_id": 32,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "e2b6a216ddf2d8",
+      "reported_at": "2026-10-23T06:31:00.000Z"
+    },
+    {
+      "report_id": 199,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "115046ede9535",
+      "reported_at": "2026-10-23T06:31:00.000Z"
+    },
+    {
+      "report_id": 367,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "be813b8039d8d",
+      "reported_at": "2026-10-23T06:40:00.000Z"
+    },
+    {
+      "report_id": 31,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "4d6d566ef0ed88",
+      "reported_at": "2026-10-23T06:48:00.000Z"
+    },
+    {
+      "report_id": 200,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "f39696c3bbb21",
+      "reported_at": "2026-10-23T07:02:00.000Z"
+    },
+    {
+      "report_id": 368,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "b7cbf6fad02eb",
+      "reported_at": "2026-10-23T07:15:00.000Z"
+    },
+    {
+      "report_id": 370,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "a71bacb526b26",
+      "reported_at": "2026-10-23T07:48:00.000Z"
+    },
+    {
+      "report_id": 369,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "e5428082f2b6a",
+      "reported_at": "2026-10-23T07:53:00.000Z"
+    },
+    {
+      "report_id": 33,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "0eea3b26d19ea",
+      "reported_at": "2026-10-23T08:02:00.000Z"
+    },
+    {
+      "report_id": 34,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "b3ec465aeb9e98",
+      "reported_at": "2026-10-23T08:05:00.000Z"
+    },
+    {
+      "report_id": 201,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "cb5c2c388bd21",
+      "reported_at": "2026-10-23T08:23:00.000Z"
+    },
+    {
+      "report_id": 202,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "aebf1a03a95fd8",
+      "reported_at": "2026-10-23T08:26:00.000Z"
+    },
+    {
+      "report_id": 372,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "6c993ffc0c9238",
+      "reported_at": "2026-10-23T08:36:00.000Z"
+    },
+    {
+      "report_id": 204,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "348d4267ade9b8",
+      "reported_at": "2026-10-23T08:39:00.000Z"
+    },
+    {
+      "report_id": 371,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "35ed42a2982c4",
+      "reported_at": "2026-10-23T08:56:00.000Z"
+    },
+    {
+      "report_id": 35,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "3d6554df667ec8",
+      "reported_at": "2026-10-23T08:58:00.000Z"
+    },
+    {
+      "report_id": 203,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "6072e2f990d97",
+      "reported_at": "2026-10-23T09:02:00.000Z"
+    },
+    {
+      "report_id": 36,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "b1f0e8f07c2cd",
+      "reported_at": "2026-10-23T09:07:00.000Z"
+    },
+    {
+      "report_id": 37,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "7550eef593e61",
+      "reported_at": "2026-10-23T09:32:00.000Z"
+    },
+    {
+      "report_id": 206,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "6f3b931a47be18",
+      "reported_at": "2026-10-23T09:35:00.000Z"
+    },
+    {
+      "report_id": 373,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "7a7233469ca97",
+      "reported_at": "2026-10-23T09:45:00.000Z"
+    },
+    {
+      "report_id": 38,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "616136bee089f8",
+      "reported_at": "2026-10-23T09:49:00.000Z"
+    },
+    {
+      "report_id": 374,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "e596cc005dfa7",
+      "reported_at": "2026-10-23T09:54:00.000Z"
+    },
+    {
+      "report_id": 205,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "c138d04e5420f",
+      "reported_at": "2026-10-23T10:20:00.000Z"
+    },
+    {
+      "report_id": 376,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "e9885121cff3d",
+      "reported_at": "2026-10-23T10:31:00.000Z"
+    },
+    {
+      "report_id": 207,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "6f74f18a334eb",
+      "reported_at": "2026-10-23T10:37:00.000Z"
+    },
+    {
+      "report_id": 39,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "f093e26953dc48",
+      "reported_at": "2026-10-23T11:04:00.000Z"
+    },
+    {
+      "report_id": 208,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f9c27ada02b3e8",
+      "reported_at": "2026-10-23T11:08:00.000Z"
+    },
+    {
+      "report_id": 375,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "0d2642ed324e58",
+      "reported_at": "2026-10-23T11:22:00.000Z"
+    },
+    {
+      "report_id": 40,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "fca762e0e636e8",
+      "reported_at": "2026-10-23T11:23:00.000Z"
+    },
+    {
+      "report_id": 209,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "6f70d0a50535d8",
+      "reported_at": "2026-10-23T11:34:00.000Z"
+    },
+    {
+      "report_id": 41,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "a6a40e6ab138a",
+      "reported_at": "2026-10-23T11:42:00.000Z"
+    },
+    {
+      "report_id": 42,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "8aaee10dd2899",
+      "reported_at": "2026-10-23T11:52:00.000Z"
+    },
+    {
+      "report_id": 377,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "bf43ca864e027",
+      "reported_at": "2026-10-23T11:59:00.000Z"
+    },
+    {
+      "report_id": 378,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "c5ede7c68ed158",
+      "reported_at": "2026-10-23T12:00:00.000Z"
+    },
+    {
+      "report_id": 210,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "c1c797192e8dd",
+      "reported_at": "2026-10-23T12:22:00.000Z"
+    },
+    {
+      "report_id": 44,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "0337d8a46fc1f8",
+      "reported_at": "2026-10-23T12:33:00.000Z"
+    },
+    {
+      "report_id": 43,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "073b61a6e2bf9",
+      "reported_at": "2026-10-23T12:35:00.000Z"
+    },
+    {
+      "report_id": 379,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "3b4a440a795ee",
+      "reported_at": "2026-10-23T12:35:00.000Z"
+    },
+    {
+      "report_id": 212,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "3ffd0c3be9839",
+      "reported_at": "2026-10-23T12:50:00.000Z"
+    },
+    {
+      "report_id": 211,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "82b1f97d5bd168",
+      "reported_at": "2026-10-23T12:59:00.000Z"
+    },
+    {
+      "report_id": 380,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "6af1e7e57b6f28",
+      "reported_at": "2026-10-23T13:16:00.000Z"
+    },
+    {
+      "report_id": 45,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "2907db007ef17",
+      "reported_at": "2026-10-23T13:45:00.000Z"
+    },
+    {
+      "report_id": 382,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "4c5a5ddb07708",
+      "reported_at": "2026-10-23T13:54:00.000Z"
+    },
+    {
+      "report_id": 46,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "6686cf40f0c5e",
+      "reported_at": "2026-10-23T14:18:00.000Z"
+    },
+    {
+      "report_id": 213,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "62492c4c25889",
+      "reported_at": "2026-10-23T14:18:00.000Z"
+    },
+    {
+      "report_id": 381,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "ef5a705500e828",
+      "reported_at": "2026-10-23T14:22:00.000Z"
+    },
+    {
+      "report_id": 214,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "a33b13b8200608",
+      "reported_at": "2026-10-23T14:25:00.000Z"
+    },
+    {
+      "report_id": 384,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "5d4b40bdc5816",
+      "reported_at": "2026-10-23T14:37:00.000Z"
+    },
+    {
+      "report_id": 215,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "3bff809ef1c128",
+      "reported_at": "2026-10-23T14:58:00.000Z"
+    },
+    {
+      "report_id": 383,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "10e8512a4f1418",
+      "reported_at": "2026-10-23T15:07:00.000Z"
+    },
+    {
+      "report_id": 47,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "90e33425f8b71",
+      "reported_at": "2026-10-23T15:14:00.000Z"
+    },
+    {
+      "report_id": 48,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "6fa78b7a0ec89",
+      "reported_at": "2026-10-23T15:14:00.000Z"
+    },
+    {
+      "report_id": 216,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "2ab968aff656e8",
+      "reported_at": "2026-10-23T15:20:00.000Z"
+    },
+    {
+      "report_id": 338,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "dde676663a0fa",
+      "reported_at": "2026-10-24T03:49:00.000Z"
+    },
+    {
+      "report_id": 2,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "2de03c09ceb4a",
+      "reported_at": "2026-10-24T03:57:00.000Z"
+    },
+    {
+      "report_id": 170,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "f8f77e47c2f29",
+      "reported_at": "2026-10-24T03:58:00.000Z"
+    },
+    {
+      "report_id": 1,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "5d2c4a6c07d028",
+      "reported_at": "2026-10-24T04:04:00.000Z"
+    },
+    {
+      "report_id": 169,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "ef02c719312b3",
+      "reported_at": "2026-10-24T04:11:00.000Z"
+    },
+    {
+      "report_id": 337,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "92748460b2e7d",
+      "reported_at": "2026-10-24T04:20:00.000Z"
+    },
+    {
+      "report_id": 340,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "67be19bf7d1e9",
+      "reported_at": "2026-10-24T04:43:00.000Z"
+    },
+    {
+      "report_id": 4,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "9efeaab54ff05",
+      "reported_at": "2026-10-24T04:57:00.000Z"
+    },
+    {
+      "report_id": 339,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "da458e56a3204",
+      "reported_at": "2026-10-24T05:02:00.000Z"
+    },
+    {
+      "report_id": 171,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "5f0673fce5cc2",
+      "reported_at": "2026-10-24T05:03:00.000Z"
+    },
+    {
+      "report_id": 3,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "81517af29bf92",
+      "reported_at": "2026-10-24T05:11:00.000Z"
+    },
+    {
+      "report_id": 172,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "741a22a2ad9798",
+      "reported_at": "2026-10-24T05:19:00.000Z"
+    },
+    {
+      "report_id": 5,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "f9882beb628f9",
+      "reported_at": "2026-10-24T05:33:00.000Z"
+    },
+    {
+      "report_id": 174,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1fb521d5b192",
+      "reported_at": "2026-10-24T05:57:00.000Z"
+    },
+    {
+      "report_id": 341,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "ff831a656454",
+      "reported_at": "2026-10-24T06:14:00.000Z"
+    },
+    {
+      "report_id": 342,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "8f342a78e707a8",
+      "reported_at": "2026-10-24T06:14:00.000Z"
+    },
+    {
+      "report_id": 173,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "dd5ffa00c0ed8",
+      "reported_at": "2026-10-24T06:21:00.000Z"
+    },
+    {
+      "report_id": 6,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "947a959cc805b8",
+      "reported_at": "2026-10-24T06:22:00.000Z"
+    },
+    {
+      "report_id": 343,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "7e17b6f6d7f44",
+      "reported_at": "2026-10-24T06:45:00.000Z"
+    },
+    {
+      "report_id": 344,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "13cf07d469f9c8",
+      "reported_at": "2026-10-24T06:51:00.000Z"
+    },
+    {
+      "report_id": 176,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "d2a6617fe425c8",
+      "reported_at": "2026-10-24T06:54:00.000Z"
+    },
+    {
+      "report_id": 7,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "45f4627e7a56",
+      "reported_at": "2026-10-24T06:59:00.000Z"
+    },
+    {
+      "report_id": 175,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "6ddd6de640e0e8",
+      "reported_at": "2026-10-24T07:07:00.000Z"
+    },
+    {
+      "report_id": 8,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "411ec2206bee3",
+      "reported_at": "2026-10-24T07:21:00.000Z"
+    },
+    {
+      "report_id": 10,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "368ece340a59f",
+      "reported_at": "2026-10-24T07:41:00.000Z"
+    },
+    {
+      "report_id": 177,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "81f8146d681c",
+      "reported_at": "2026-10-24T07:41:00.000Z"
+    },
+    {
+      "report_id": 346,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "0aaf3865f11438",
+      "reported_at": "2026-10-24T07:47:00.000Z"
+    },
+    {
+      "report_id": 345,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "9275ab7cb3151",
+      "reported_at": "2026-10-24T07:59:00.000Z"
+    },
+    {
+      "report_id": 178,
+      "place_id": 12,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "5f6bccbe8058",
+      "reported_at": "2026-10-24T08:21:00.000Z"
+    },
+    {
+      "report_id": 9,
+      "place_id": 11,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "b48f0b9e50036",
+      "reported_at": "2026-10-24T08:22:00.000Z"
+    },
+    {
+      "report_id": 348,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "f0b175b564fce8",
+      "reported_at": "2026-10-24T08:30:00.000Z"
+    },
+    {
+      "report_id": 347,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "b4f8db7fda2b6",
+      "reported_at": "2026-10-24T08:37:00.000Z"
+    },
+    {
+      "report_id": 179,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "66673a7f19ca38",
+      "reported_at": "2026-10-24T09:20:00.000Z"
+    },
+    {
+      "report_id": 11,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1ae8a6c56deeb8",
+      "reported_at": "2026-10-24T09:21:00.000Z"
+    },
+    {
+      "report_id": 180,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "64d9c8bb4667a8",
+      "reported_at": "2026-10-24T09:23:00.000Z"
+    },
+    {
+      "report_id": 12,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "431378bd7d2bd",
+      "reported_at": "2026-10-24T09:28:00.000Z"
+    },
+    {
+      "report_id": 182,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "428cf7deb6337",
+      "reported_at": "2026-10-24T09:35:00.000Z"
+    },
+    {
+      "report_id": 350,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "15b6ad61313d1",
+      "reported_at": "2026-10-24T09:50:00.000Z"
+    },
+    {
+      "report_id": 181,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "86f2db5a8003c8",
+      "reported_at": "2026-10-24T10:00:00.000Z"
+    },
+    {
+      "report_id": 13,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "40e1e161edcb",
+      "reported_at": "2026-10-24T10:13:00.000Z"
+    },
+    {
+      "report_id": 349,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "2b6a41c3238018",
+      "reported_at": "2026-10-24T10:19:00.000Z"
+    },
+    {
+      "report_id": 14,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "4d0fe7413b4e38",
+      "reported_at": "2026-10-24T10:28:00.000Z"
+    },
+    {
+      "report_id": 15,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 15,
+      "device_hash": "e9d2957995e768",
+      "reported_at": "2026-10-24T10:44:00.000Z"
+    },
+    {
+      "report_id": 352,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "c905e30ff5517",
+      "reported_at": "2026-10-24T10:45:00.000Z"
+    },
+    {
+      "report_id": 184,
+      "place_id": 12,
+      "crowd_level": "Moderate",
+      "wait_minutes": 25,
+      "device_hash": "591397527930d",
+      "reported_at": "2026-10-24T10:57:00.000Z"
+    },
+    {
+      "report_id": 183,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "01cf0d48587a28",
+      "reported_at": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "report_id": 351,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "e7cd09ebc175c8",
+      "reported_at": "2026-10-24T11:01:00.000Z"
+    },
+    {
+      "report_id": 16,
+      "place_id": 11,
+      "crowd_level": "Moderate",
+      "wait_minutes": 20,
+      "device_hash": "26fadb5565d79",
+      "reported_at": "2026-10-24T11:22:00.000Z"
+    },
+    {
+      "report_id": 353,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "08cf805707f668",
+      "reported_at": "2026-10-24T11:33:00.000Z"
+    },
+    {
+      "report_id": 185,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "4c68f3b046e9b",
+      "reported_at": "2026-10-24T11:34:00.000Z"
+    },
+    {
+      "report_id": 18,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "bb923f9f5a6c5",
+      "reported_at": "2026-10-24T11:35:00.000Z"
+    },
+    {
+      "report_id": 354,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 50,
+      "device_hash": "19622ba9ddf0d",
+      "reported_at": "2026-10-24T11:41:00.000Z"
+    },
+    {
+      "report_id": 186,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "9e1b03a4151fe8",
+      "reported_at": "2026-10-24T11:47:00.000Z"
+    },
+    {
+      "report_id": 17,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "291da731cb961",
+      "reported_at": "2026-10-24T12:16:00.000Z"
+    },
+    {
+      "report_id": 187,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 10,
+      "device_hash": "bcc4080c335118",
+      "reported_at": "2026-10-24T12:35:00.000Z"
+    },
+    {
+      "report_id": 19,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "033e5c407b43a",
+      "reported_at": "2026-10-24T12:37:00.000Z"
+    },
+    {
+      "report_id": 355,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "d4a83b37334778",
+      "reported_at": "2026-10-24T12:47:00.000Z"
+    },
+    {
+      "report_id": 356,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 45,
+      "device_hash": "2edb523ec7f4c8",
+      "reported_at": "2026-10-24T12:50:00.000Z"
+    },
+    {
+      "report_id": 188,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "85fc39f6dbec38",
+      "reported_at": "2026-10-24T13:08:00.000Z"
+    },
+    {
+      "report_id": 20,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "acb41dd949a91",
+      "reported_at": "2026-10-24T13:21:00.000Z"
+    },
+    {
+      "report_id": 357,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": 55,
+      "device_hash": "005a86bc26716",
+      "reported_at": "2026-10-24T13:31:00.000Z"
+    },
+    {
+      "report_id": 189,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "e476b5c21d47",
+      "reported_at": "2026-10-24T13:46:00.000Z"
+    },
+    {
+      "report_id": 22,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "874280bdb818f",
+      "reported_at": "2026-10-24T13:48:00.000Z"
+    },
+    {
+      "report_id": 190,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "be4b81565ff79",
+      "reported_at": "2026-10-24T13:59:00.000Z"
+    },
+    {
+      "report_id": 21,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "508f01495ad2d",
+      "reported_at": "2026-10-24T14:07:00.000Z"
+    },
+    {
+      "report_id": 358,
+      "place_id": 13,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "f68a94b840b8c8",
+      "reported_at": "2026-10-24T14:23:00.000Z"
+    },
+    {
+      "report_id": 24,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "77fd9dc19190e",
+      "reported_at": "2026-10-24T14:33:00.000Z"
+    },
+    {
+      "report_id": 192,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "4b71001cee496",
+      "reported_at": "2026-10-24T14:35:00.000Z"
+    },
+    {
+      "report_id": 191,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "b194d9944f41d",
+      "reported_at": "2026-10-24T14:36:00.000Z"
+    },
+    {
+      "report_id": 360,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 0,
+      "device_hash": "dc0ed8a54c1f4",
+      "reported_at": "2026-10-24T14:37:00.000Z"
+    },
+    {
+      "report_id": 23,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "b6d9ed55b49f38",
+      "reported_at": "2026-10-24T14:41:00.000Z"
+    },
+    {
+      "report_id": 359,
+      "place_id": 13,
+      "crowd_level": "Low",
+      "wait_minutes": 5,
+      "device_hash": "97d0db57074e3",
+      "reported_at": "2026-10-24T15:01:00.000Z"
+    },
+    {
+      "report_id": 505,
+      "place_id": 14,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1cb19eface71e2ef",
+      "reported_at": "2026-10-24T18:35:46.256Z"
+    },
+    {
+      "report_id": 506,
+      "place_id": 11,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1cb19eface71e2ef",
+      "reported_at": "2026-10-25T20:11:43.328Z"
+    },
+    {
+      "report_id": 507,
+      "place_id": 12,
+      "crowd_level": "Low",
+      "wait_minutes": null,
+      "device_hash": "1cb19eface71e2ef",
+      "reported_at": "2026-10-25T20:11:47.711Z"
+    },
+    {
+      "report_id": 508,
+      "place_id": 13,
+      "crowd_level": "Moderate",
+      "wait_minutes": null,
+      "device_hash": "1cb19eface71e2ef",
+      "reported_at": "2026-10-25T20:11:50.222Z"
+    },
+    {
+      "report_id": 509,
+      "place_id": 14,
+      "crowd_level": "Heavy",
+      "wait_minutes": null,
+      "device_hash": "1cb19eface71e2ef",
+      "reported_at": "2026-10-25T20:11:53.878Z"
+    }
+  ],
+  "admins": [
+    {
+      "admin_id": 1,
+      "name": "WaitWise Admin",
+      "email": "admin@waitwise.com",
+      "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    }
+  ]
+}

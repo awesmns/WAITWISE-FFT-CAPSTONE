@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WaitWise Admin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <svg width="28" height="28" viewBox="0 0 28 28" aria-hidden="true"><circle cx="14" cy="14" r="13" fill="#1f6b43"/><path d="M14 7v7l5 3" stroke="#e8f5ec" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      WaitWise Admin
+    </a>
+    <nav>
+      <a href="index.html">Back to site</a>
+      <a href="#" id="logout" hidden>Log out</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="loginView" class="box login">
+      <h2>Admin login</h2>
+      <form id="loginForm">
+        <div class="field"><label for="email">Email</label><input id="email" type="email" value="admin@waitwise.com" required></div>
+        <div class="field"><label for="password">Password</label><input id="password" type="password" placeholder="admin123" required></div>
+        <button class="btn" type="submit">Log in</button>
+        <p class="msg" id="loginMsg" role="status"></p>
+      </form>
+    </section>
+
+    <div id="adminView" class="admin-wrap" hidden>
+      <section class="box">
+        <h3 id="formTitle">Add a place</h3>
+        <form id="placeForm">
+          <input type="hidden" id="placeId">
+          <div class="form-grid">
+            <div class="field"><label for="pName">Name</label><input id="pName" required></div>
+            <div class="field"><label for="pCat">Category</label><select id="pCat"></select></div>
+            <div class="field"><label for="pLoc">Location</label><input id="pLoc" required></div>
+            <div class="field"><label for="pHours">Opening hours</label><input id="pHours" placeholder="09:00 - 18:00" required></div>
+          </div>
+          <div class="row-actions">
+            <button class="btn" type="submit" id="saveBtn">Add place</button>
+            <button class="btn ghost" type="button" id="cancelEdit" hidden>Cancel edit</button>
+          </div>
+          <p class="msg" id="formMsg" role="status"></p>
+        </form>
+      </section>
+
+      <section class="box">
+        <h3>Places</h3>
+        <div class="scroll-x">
+          <table>
+            <thead><tr><th>Name</th><th>Category</th><th>Hours</th><th>Reports</th><th>Actions</th></tr></thead>
+            <tbody id="placeRows"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="box" id="reportsBox" hidden>
+        <h3 id="reportsTitle">Reports</h3>
+        <div class="scroll-x">
+          <table>
+            <thead><tr><th>When</th><th>Level</th><th>Wait</th><th>Device</th><th></th></tr></thead>
+            <tbody id="reportRows"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script src="admin.js"></script>
+</body>
+</html>
